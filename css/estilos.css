@@ -1,0 +1,28 @@
+html{
+    background-color: yellow;
+
+}
+header{
+    text-align: center;
+    color: blue;
+}
+nav{
+    text-align: center;
+}
+section div{
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    
+}
+footer{
+    text-align: center;
+    color: blue;
+    
+}
+nav a {
+    font-size: 30px;
+}
+footer h2{
+    font-size: 30px;
+}
