@@ -1,28 +1,25 @@
-html{
-    background-color: yellow;
-
-}
-header{
-    text-align: center;
-    color: blue;
-}
-nav{
-    text-align: center;
-}
-section div{
+.fondo{
     background-color: black;
-    height: 30px;
-    width: 100%;
-    
 }
-footer{
+.card{
+    border-style: dashed; color: blue;
+    border-width: 5px;
+}
+body{
+    background: blanchedalmond;
+}
+h1{
     text-align: center;
-    color: blue;
-    
 }
-nav a {
-    font-size: 30px;
+.caja{
+    margin: auto;
+    background: skyblue;
+    width: 30%;
+    height: 30%;
+    padding: 10px;
+    border-radius: 2%;
+    border: 2px solid blue;
 }
-footer h2{
-    font-size: 30px;
+.tabla{
+    margin: auto;
 }
